@@ -1,0 +1,9 @@
+<resources>
+	<string name="str_button1">ボタン１</string>
+	<string name="str_button2">ボタン２</string>
+	<string name="str_button3">ボタン３</string>
+
+	<string name="str_buttonMessage1">ボタン１クリックされたよ</string>
+	<string name="str_buttonMessage2">ボタン２クリックされたよ</string>
+	<string name="str_buttonMessage3">ボタン３クリックされたよ</string>
+</resources>

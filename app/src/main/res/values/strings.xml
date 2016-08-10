@@ -1,0 +1,9 @@
+<resources>
+	<string name="str_button1">button1</string>
+	<string name="str_button2">button2</string>
+	<string name="str_button3">button3</string>
+
+	<string name="str_buttonMessage1">button1 clicked</string>
+	<string name="str_buttonMessage2">button2 clicked</string>
+	<string name="str_buttonMessage3">button3 clicked</string>
+</resources>
